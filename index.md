@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/health care/notebook.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
