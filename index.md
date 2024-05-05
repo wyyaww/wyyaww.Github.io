@@ -16,9 +16,9 @@ Will the number of lab procedures correlate to the number of days in the hospita
 
 ---
 
-#### [Designing a Bank Marketing Database](https://www.datacamp.com/datalab/w/247c326d-aee5-4ddb-a0fe-d58086d9be5c/edit)
-<img src="images/Design a bank marketing database.jpg?raw=true"/>
-In this Datacamp project, I learned to design a bank marketing database. 
+#### [Investigating Netflix Movies](https://www.datacamp.com/datalab/w/667a79a7-597d-4301-87ae-508851aabba1/edit)
+<img src="images/Are movies getting shorter.png?raw=true"/>
+In this fun Netflix movies project, I used Python to answer the question: are movies getting short? 
 
 ---
 
@@ -28,9 +28,11 @@ EV Outlook Dashboard
 
 ---
 
-#### [Investigating Netflix Movies](https://www.datacamp.com/datalab/w/667a79a7-597d-4301-87ae-508851aabba1/edit)
+#### [Designing a Bank Marketing Database](https://www.datacamp.com/datalab/w/247c326d-aee5-4ddb-a0fe-d58086d9be5c/edit)
 <img src="images/Design a bank marketing database.jpg?raw=true"/>
-In this fun Netflix movies project, I used Python to answer the question: are movies getting short? 
+In this Datacamp project, I learned to design a bank marketing database. 
+
+---
 
 #### [Mining Project](https://www.datacamp.com/datalab/w/869bd308-fcdb-473b-a865-e12f68a594c9/edit)
 For this project, I used Pandas, Seaborn, and Matplotlib to explore the data. I visualize the data so it's easy to understand.  
