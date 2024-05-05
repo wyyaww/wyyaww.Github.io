@@ -4,10 +4,6 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/health care/notebook.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
@@ -22,7 +18,8 @@ EV Outlook Dashboard
 ---
 #### [Healthcare Project](https://www.datacamp.com/datalab/w/b222f704-6d6d-4807-b5e3-728af2ddf03e/report)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]
-In this case study from Data Analytics Accelerator, I used Python and SQL to analyze the healthcare data in different ways. The main focuses were:
+In this case study from Data Analytics Accelerator, I used Python and SQL to analyze the healthcare data in different ways. 
+The main focuses were:
 How many days do people spend in the hospital the most?
 Will the hospital treat people of color differently?
 Will the number of lab procedures correlate to the number of days in the hospital? 
