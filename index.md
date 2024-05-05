@@ -20,12 +20,12 @@ EV Outlook Dashboard
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Healthcare Project](https://www.datacamp.com/datalab/w/b222f704-6d6d-4807-b5e3-728af2ddf03e/report)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]
+In this case study from Data Analytics Accelerator, I used Python and SQL to analyze the healthcare data in different ways. The main focuses were:
+How many days do people spend in the hospital the most?
+Will the hospital treat people of color differently?
+Will the number of lab procedures correlate to the number of days in the hospital? 
 
 ---
 
