@@ -17,7 +17,7 @@ EV Outlook Dashboard
 
 ---
 #### [Healthcare Project](https://www.datacamp.com/datalab/w/b222f704-6d6d-4807-b5e3-728af2ddf03e/report)
-[<img src="images/Green Orange Blue Creative Healthcare Facility Presentation.jpg?raw=true"/>]
+<img src="images/Green Orange Blue Creative Healthcare Facility Presentation.jpg?raw=true"/>
 In this case study from Data Analytics Accelerator, I used Python and SQL to analyze the healthcare data in different ways. 
 The main focuses were:
 How many days do people spend in the hospital the most?
