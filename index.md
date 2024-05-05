@@ -20,6 +20,7 @@ Will the number of lab procedures correlate to the number of days in the hospita
 <img src="images/Design a bank marketing database.jpg?raw=true"/>
 In this Datacamp project, I learned to design a bank marketing database. 
 
+---
 
 #### [EV Outlook Project](https://public.tableau.com/app/profile/jiabao.zhang/viz/EVoutlook2023/Dashboard1?publish=yes)
 
