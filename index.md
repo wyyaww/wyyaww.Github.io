@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [Mining Project](https://www.datacamp.com/datalab/w/869bd308-fcdb-473b-a865-e12f68a594c9/report)
+<img src="images/Green Orange Blue Creative Healthcare Facility Presentation.jpg?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
