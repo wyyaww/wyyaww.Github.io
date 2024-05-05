@@ -17,7 +17,7 @@ Will the number of lab procedures correlate to the number of days in the hospita
 ---
 
 #### [Designing a Bank Marketing Database](https://www.datacamp.com/datalab/w/247c326d-aee5-4ddb-a0fe-d58086d9be5c/edit)
-<img src="images/Green Orange Blue Creative Healthcare Facility Presentation.jpg?raw=true"/>
+<img src="images/Design a bank marketing database.jpg?raw=true"/>
 In this Datacamp project, I learned to design a bank marketing database. 
 
 
